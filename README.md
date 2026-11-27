@@ -1,29 +1,84 @@
-# Welcome to your Lovable project
+# OfficeFlow | Employee Management System
 
-This project was built with [Lovable](https://lovable.dev).
+OfficeFlow is a web-based Employee Management System designed to bring essential workforce and HR operations together in a centralized, organized workspace.
 
-## Build with Lovable
+The platform provides a unified interface for managing employee information, organizational structure, attendance, leave, and other workforce-related operations.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Dashboard** – Centralized overview of workforce operations.
+- **Employee Management** – Employee information and record management.
+- **Department Management** – Organize employees by departments.
+- **Role Management** – Manage organizational roles.
+- **Attendance Management** – Track employee attendance.
+- **Leave Management** – Manage employee leave records.
+- **Payroll Management** – Payroll management interface.
+- **HR Management** – Dedicated HR operations interface.
 
-## Development
+## Technology Stack
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- React
+- TypeScript
+- TanStack Start
+- Tailwind CSS
+- Node.js
+- npm
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone <your-github-repository-url>
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd officeflow
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
 npm run dev
 ```
 
-## Built with
+**5. Open the application**
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+Visit the local URL provided in your terminal.
+
+## Live Demo
+
+[View OfficeFlow](YOUR_DEPLOYED_APPLICATION_URL)
+
+## Project Highlights
+
+- Modular application structure
+- Organized employee management interface
+- Multiple workforce management modules
+- Responsive user interface
+- Modern frontend development stack
+
+## Developer
+
+**Nishita Chauhan**
+
+Software Engineering | Web Development
+
+---
+
+*OfficeFlow — Simplifying workforce management through a unified digital workspace.*
